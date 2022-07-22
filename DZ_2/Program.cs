@@ -7,7 +7,7 @@ if(numb<99)
     Console.WriteLine("третьей цифры нет");
 }
 else{string str=numb.ToString();
- Console.WriteLine(           str[2]);
+ Console.WriteLine( "Третья цифра=>"+str[2]);
 }
      
      
